@@ -52,7 +52,7 @@ print(result)
 
 ### Supported Languages
 ```
-English, Kamba, Kikuyu, Luo, Somali, Swahili,
+English, Kamba, Kikuyu, Luo, Somali, Swahili,'Amharic', 'Bengali', 'French', 'Ganda', 'German', 'Igbo', 'Kikongo', 'Kinyarwanda', 'Lingala', 'Portuguese', 'Rundi', 'Urdu'
 
 ```
 ### To be Supported Languages
